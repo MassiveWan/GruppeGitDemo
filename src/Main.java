@@ -36,4 +36,7 @@ void main() {
     System.out.println("Okay, det er helt fint. Jeg burde nok arrangere noget 'Session Zero', så jeg kan vejlede jer lidt.");
     System.out.println("Det er jo et stort valg, da man skal bruge rigtig lang tid med sine D&D characters");
     System.out.println("Hvilket spil har du brugt mest tid i? Er det Brawl Stars eller et andet spil?");
+
+    System.out.println("session zero lyder som en god idee");
+    System.out.println("jeg tror at jeg i fortnite ca har 3000 timer +- en paar hunderd og i brawlstars har jeg 6800 timer");
 }
