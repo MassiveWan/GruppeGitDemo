@@ -24,4 +24,9 @@ void main() {
 
     System.out.println("nice");
     System.out.println("spiller du lige for tiden også andre games du spiller untagen for eldenring");
+
+    System.out.println("Ja, det gør jeg. Monster Hunter: Wilds spiller jeg også, dog ikke så meget mere da jeg har noget endgame.");
+    System.out.println("Jeg har også noget erfaring med League of Legends. Jeg har også lige spillet to andre singleplayer spil.");
+    System.out.println("De to spil er Hollow Knight: Silksong, og Subnautica. Begge to mega gode spil. Hvad med dig? Spiller du andet, udover Rocket League?");
+    System.out.println("Og hvad tænker du på, angående en backstory til din D&D character? Har du et navn og en species, eller er du ikke nået så langt endnu?");
 }
