@@ -1,8 +1,4 @@
 void main() {
-
-    IO.println(String.format("Hello and welcome!"));
-
-
     System.out.println("Hej Tobias! Hvad er din 'main' i Nightreign?");
 
     System.out.println("Hej Henrik, Jeg syntes det er meget sjovt at spille duchess men er ikke så god med her. derfor spiller jeg mest ironeye.");
@@ -11,6 +7,11 @@ void main() {
     System.out.println("Duchess er også sjov. Jeg er meget glad for at spille Wylder");
     System.out.println("Kan godt lide at han er så hurtig og versatile. Han kan bruge næsten alle de weapons man kan finde!");
     System.out.println("Har du nogensinde spillet det originale Elden Ring?");
+
     System.out.println("nej, men jeg har hørt meget om den");
     System.out.println("lad os se om du nu får en fejl");
+
+    System.out.println("Det gjorde jeg ikke. Heldigvis!");
+    System.out.println("Elden Ring er mega fedt. Jeg er igang med min fjerde playthrough nu. Man kan prøve mange forskellige builds og strategier.");
+    System.out.println("Har du nogle nye spil som du ser frem til? Altså nogen som ikke er released endnu.");
 }
