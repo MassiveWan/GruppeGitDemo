@@ -29,4 +29,9 @@ void main() {
     System.out.println("Jeg har også noget erfaring med League of Legends. Jeg har også lige spillet to andre singleplayer spil.");
     System.out.println("De to spil er Hollow Knight: Silksong, og Subnautica. Begge to mega gode spil. Hvad med dig? Spiller du andet, udover Rocket League?");
     System.out.println("Og hvad tænker du på, angående en backstory til din D&D character? Har du et navn og en species, eller er du ikke nået så langt endnu?");
+
+    System.out.println("som du allerede har nævnt har jeg startet med rocket league igen. ud over det spiller jeg marvel rivals og har lige startet på lidt minecraft igen");
+    System.out.println("angående d&d charactern. har jeg sendt alt til dig, som jeg har");
+
+
 }
