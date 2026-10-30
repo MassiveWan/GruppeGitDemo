@@ -33,5 +33,7 @@ void main() {
     System.out.println("som du allerede har nævnt har jeg startet med rocket league igen. ud over det spiller jeg marvel rivals og har lige startet på lidt minecraft igen");
     System.out.println("angående d&d charactern. har jeg sendt alt til dig, som jeg har");
 
-
+    System.out.println("Okay, det er helt fint. Jeg burde nok arrangere noget 'Session Zero', så jeg kan vejlede jer lidt.");
+    System.out.println("Det er jo et stort valg, da man skal bruge rigtig lang tid med sine D&D characters");
+    System.out.println("Hvilket spil har du brugt mest tid i? Er det Brawl Stars eller et andet spil?");
 }
