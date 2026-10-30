@@ -14,4 +14,7 @@ void main() {
     System.out.println("Det gjorde jeg ikke. Heldigvis!");
     System.out.println("Elden Ring er mega fedt. Jeg er igang med min fjerde playthrough nu. Man kan prøve mange forskellige builds og strategier.");
     System.out.println("Har du nogle nye spil som du ser frem til? Altså nogen som ikke er released endnu.");
+
+    System.out.println("ja, den næste the witcher del");
+    System.out.println("har du er der nye spil du ser frem tid i den næste tid");
 }
