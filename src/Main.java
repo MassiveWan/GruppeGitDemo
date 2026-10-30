@@ -21,4 +21,7 @@ void main() {
     System.out.println("Ja. Capcom har announced den nye DLC til Monster Hunter: Wilds");
     System.out.println("Den hedder 'Ascendance', og de har sagt at den skulle være noget sværere end basegame Wilds");
     System.out.println("Det bliver mega fedt!");
+
+    System.out.println("nice");
+    System.out.println("spiller du lige for tiden også andre games du spiller untagen for eldenring");
 }
