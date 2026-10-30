@@ -17,4 +17,8 @@ void main() {
 
     System.out.println("ja, den næste the witcher del");
     System.out.println("har du er der nye spil du ser frem tid i den næste tid");
+
+    System.out.println("Ja. Capcom har announced den nye DLC til Monster Hunter: Wilds");
+    System.out.println("Den hedder 'Ascendance', og de har sagt at den skulle være noget sværere end basegame Wilds");
+    System.out.println("Det bliver mega fedt!");
 }
